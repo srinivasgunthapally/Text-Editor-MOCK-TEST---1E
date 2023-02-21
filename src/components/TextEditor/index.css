@@ -1,0 +1,15 @@
+.heading {
+  color: red;
+}
+.central-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.image-container {
+  background-color: #1b1c22;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 20px;
+}
